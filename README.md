@@ -21,6 +21,7 @@ INTERVENIR (codeEntreprise, codeChantier, dateJour, duree, nbrIntervenant)
 ### Exercices : Exécuter les requêtes suivantes et expliquer les requêtes : 
 ***
 ![](assets/schema_2.png "schema_1")
+
 ![](assets/schema_3.png "schema_1")
 ![](assets/schema_4.png "schema_1")
 ![](assets/schema_5.png "schema_1")
