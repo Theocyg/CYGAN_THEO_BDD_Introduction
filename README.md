@@ -134,6 +134,4 @@ ensuite dans la table entreprise :
 ```
 DELETE FROM entreprise WHERE code = 2;
 ```
-![](assets/question8_2.PNG)#� �C�Y�G�A�N�_�T�H�E�O�_�B�D�D�_�I�n�t�r�o�d�u�c�t�i�o�n�
-�
-�
+![](assets/question8_2.PNG)
